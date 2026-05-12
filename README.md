@@ -252,29 +252,26 @@ This project helped strengthen practical understanding of:
 ---
 
 # 📸 Screenshots
-# 📸 Screenshots
 
 ## Splash Screen
-![Splash Screen](screenshots/splashscreen.jpeg)
+<img src="screenshots/splashscreen.jpeg" width="250"/>
 
 ## Home Screen
-![Home Screen](screenshots/homescreen.jpeg)
+<img src="screenshots/homescreen.jpeg" width="250"/>
 
 ## Analytics Dashboard
-![Analytics Dashboard](screenshots/analytics dashboard.jpeg)
-
-![Analytics Screen](screenshots/analyticsscreen.jpeg)
+<img src="screenshots/analytics_dashboard.jpeg" width="250"/>
+<img src="screenshots/analyticsscreen.jpeg" width="250"/>
 
 ## Log Data Screen
-![Log Data Screen](screenshots/Log borewell data.jpeg)
+<img src="screenshots/log_borewell_data.jpeg" width="250"/>
 
 ## AI Insight Screen
-![AI Insights](screenshots/AI insights.jpeg)
-
-![AI Recommendation](screenshots/AI insights recc.jpeg)
+<img src="screenshots/ai_insights.jpeg" width="250"/>
+<img src="screenshots/ai_insights_recc.jpeg" width="250"/>
 
 ## Map Screen
-![Map Screen](screenshots/mapscreen.jpeg)
+<img src="screenshots/mapscreen.jpeg" width="250"/>
 ---
 
 # 👨‍💻 Developer
