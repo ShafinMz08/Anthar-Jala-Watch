@@ -252,17 +252,12 @@ This project helped strengthen practical understanding of:
 ---
 
 # 📸 Screenshots
-
-> Add your application screenshots here.
-
-Suggested screenshots:
-
-* Home Screen
-* Analytics Dashboard
-* Log Data Screen
-* AI Insight Screen
-* Map Screen
-* Dark Mode UI
+* Splash Screen: https://github.com/ShafinMz08/Anthar-Jala-Watch/blob/main/screenshots/splashscreen.jpeg
+* Home Screen: https://github.com/ShafinMz08/Anthar-Jala-Watch/blob/main/screenshots/homescreen.jpeg
+* Analytics Dashboard: https://github.com/ShafinMz08/Anthar-Jala-Watch/blob/main/screenshots/analytics%20dashboard.jpeg https://github.com/ShafinMz08/Anthar-Jala-Watch/blob/main/screenshots/analyticsscreen.jpeg
+* Log Data Screen: https://github.com/ShafinMz08/Anthar-Jala-Watch/blob/main/screenshots/Log%20borewell%20data.jpeg
+* AI Insight Screen: https://github.com/ShafinMz08/Anthar-Jala-Watch/blob/main/screenshots/AI%20insights.jpeg https://github.com/ShafinMz08/Anthar-Jala-Watch/blob/main/screenshots/AI%20insights%20recc.jpeg
+* Map Screen: https://github.com/ShafinMz08/Anthar-Jala-Watch/blob/main/screenshots/mapscreen.jpeg
 
 ---
 
