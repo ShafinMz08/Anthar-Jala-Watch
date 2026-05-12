@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--
+        Base Activity theme.
+        NoActionBar because every screen uses a Compose TopAppBar.
+        Compose controls all visual theming via AntharJalaTheme.
+    -->
+    <style name="Theme.AntharJalaWatch" parent="android:Theme.Material.Light.NoActionBar">
+        <!-- Status bar color is overridden programmatically in Theme.kt -->
+        <item name="android:windowBackground">@android:color/black</item>
+        <item name="android:statusBarColor">#0A0E1A</item>
+    </style>
+</resources>

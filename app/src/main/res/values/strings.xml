@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--
+        App display name — shown in launcher and task switcher.
+    -->
+    <string name="app_name">Anthar-Jala Watch</string>
+
+    <!--
+        Google Maps API Key.
+
+        STEP TO REPLACE:
+        1. Go to https://console.cloud.google.com/
+        2. Select your project → APIs & Services → Credentials
+        3. Copy your Maps SDK for Android API key
+        4. Replace YOUR_GOOGLE_MAPS_API_KEY below with the real key
+
+        The AndroidManifest.xml reads this value via @string/google_maps_key
+        and passes it to the Maps SDK through the geo.API_KEY meta-data tag.
+    -->
+    <string name="google_maps_key">YOUR_GOOGLE_MAPS_API_KEY</string>
+</resources>
