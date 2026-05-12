@@ -252,13 +252,29 @@ This project helped strengthen practical understanding of:
 ---
 
 # 📸 Screenshots
-* Splash Screen: https://github.com/ShafinMz08/Anthar-Jala-Watch/blob/main/screenshots/splashscreen.jpeg
-* Home Screen: https://github.com/ShafinMz08/Anthar-Jala-Watch/blob/main/screenshots/homescreen.jpeg
-* Analytics Dashboard: https://github.com/ShafinMz08/Anthar-Jala-Watch/blob/main/screenshots/analytics%20dashboard.jpeg https://github.com/ShafinMz08/Anthar-Jala-Watch/blob/main/screenshots/analyticsscreen.jpeg
-* Log Data Screen: https://github.com/ShafinMz08/Anthar-Jala-Watch/blob/main/screenshots/Log%20borewell%20data.jpeg
-* AI Insight Screen: https://github.com/ShafinMz08/Anthar-Jala-Watch/blob/main/screenshots/AI%20insights.jpeg https://github.com/ShafinMz08/Anthar-Jala-Watch/blob/main/screenshots/AI%20insights%20recc.jpeg
-* Map Screen: https://github.com/ShafinMz08/Anthar-Jala-Watch/blob/main/screenshots/mapscreen.jpeg
+# 📸 Screenshots
 
+## Splash Screen
+![Splash Screen](screenshots/splashscreen.jpeg)
+
+## Home Screen
+![Home Screen](screenshots/homescreen.jpeg)
+
+## Analytics Dashboard
+![Analytics Dashboard](screenshots/analytics dashboard.jpeg)
+
+![Analytics Screen](screenshots/analyticsscreen.jpeg)
+
+## Log Data Screen
+![Log Data Screen](screenshots/Log borewell data.jpeg)
+
+## AI Insight Screen
+![AI Insights](screenshots/AI insights.jpeg)
+
+![AI Recommendation](screenshots/AI insights recc.jpeg)
+
+## Map Screen
+![Map Screen](screenshots/mapscreen.jpeg)
 ---
 
 # 👨‍💻 Developer
