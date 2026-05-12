@@ -260,18 +260,19 @@ This project helped strengthen practical understanding of:
 <img src="screenshots/homescreen.jpeg" width="250"/>
 
 ## Analytics Dashboard
-<img src="screenshots/analytics_dashboard.jpeg" width="250"/>
+<img src="screenshots/analyticsn dashboard.jpeg" width="250"/>
 <img src="screenshots/analyticsscreen.jpeg" width="250"/>
 
 ## Log Data Screen
-<img src="screenshots/log_borewell_data.jpeg" width="250"/>
+<img src="screenshots/Log borewell data.jpeg" width="250"/>
 
 ## AI Insight Screen
-<img src="screenshots/ai_insights.jpeg" width="250"/>
-<img src="screenshots/ai_insights_recc.jpeg" width="250"/>
+<img src="screenshots/AI insights.jpeg" width="250"/>
+<img src="screenshots/AI insights recc.jpeg" width="250"/>
 
 ## Map Screen
 <img src="screenshots/mapscreen.jpeg" width="250"/>
+
 ---
 
 # 👨‍💻 Developer
