@@ -14,3 +14,7 @@
 .cxx
 local.properties
 google-services.json
+.idea/
+.gradle/
+build/
+*.iml
