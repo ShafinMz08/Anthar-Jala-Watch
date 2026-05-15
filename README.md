@@ -124,6 +124,7 @@ Designed to support future upgrades:
 # 🧠 Architecture (MVVM)
 
 ## Model
+
 Handles:
 
 * Data models  
@@ -131,6 +132,7 @@ Handles:
 * Database logic  
 
 ## ViewModel
+
 Handles:
 
 * UI state management  
@@ -139,6 +141,7 @@ Handles:
 * Insight generation logic  
 
 ## View
+
 Handles:
 
 * User interface  
@@ -157,21 +160,18 @@ This ensures:
 
 # 📂 Project Structure
 
-
+```text
 app/
 ├── data/
 ├── ui/
-│ ├── home/
-│ ├── analytics/
-│ ├── insights/
-│ ├── map/
-│ ├── settings/
+│   ├── home/
+│   ├── analytics/
+│   ├── insights/
+│   ├── map/
+│   ├── settings/
 ├── viewmodel/
 ├── database/
 └── MainActivity.kt
-
-
----
 
 # 🚀 Installation & Setup
 
@@ -188,21 +188,24 @@ app/
 
 ```bash
 git clone https://github.com/YOUR_USERNAME/AntharJalaWatch.git
+```
+
+---
 
 ## Open Project
 
-* Open Android Studio  
-* Click **Open Project**  
-* Select the cloned folder  
-* Wait for Gradle sync to complete  
+1. Open Android Studio  
+2. Click **Open Project**  
+3. Select the cloned folder  
+4. Wait for Gradle sync to complete  
 
 ---
 
 ## Run Application
 
-* Connect an Android device or emulator  
-* Click **Run ▶** in Android Studio  
-* Build and launch the app  
+1. Connect an Android device or emulator  
+2. Click **Run ▶** in Android Studio  
+3. Build and launch the app  
 
 ---
 
@@ -240,23 +243,39 @@ This project helped strengthen understanding of:
 # 📸 Screenshots
 
 ## Splash Screen
+
 <img src="screenshots/splashscreen.jpeg" width="250"/>
 
+---
+
 ## Home Screen
+
 <img src="screenshots/homescreen.jpeg" width="250"/>
 
+---
+
 ## Analytics Dashboard
+
 <img src="screenshots/analyticsn dashboard.jpeg" width="250"/>
 <img src="screenshots/analyticsscreen.jpeg" width="250"/>
 
+---
+
 ## Log Data Screen
+
 <img src="screenshots/Log borewell data.jpeg" width="250"/>
 
+---
+
 ## AI Insights
+
 <img src="screenshots/AI insights.jpeg" width="250"/>
 <img src="screenshots/AI insights recc.jpeg" width="250"/>
 
+---
+
 ## Map Screen
+
 <img src="screenshots/mapscreen.jpeg" width="250"/>
 
 ---
@@ -272,7 +291,7 @@ Aspiring Software Engineer focused on:
 * Data Analytics  
 * Intelligent Systems  
 
-GitHub: https://github.com/ShafinMz08  
+GitHub: https://github.com/ShafinMz08
 
 ---
 
