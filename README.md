@@ -172,7 +172,7 @@ app/
 ├── viewmodel/
 ├── database/
 └── MainActivity.kt
-
+```
 # 🚀 Installation & Setup
 
 ## Prerequisites
@@ -187,7 +187,7 @@ app/
 ## Clone Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/AntharJalaWatch.git
+git clone https://github.com/ShafinMz08/Anthar-Jala-Watch.git
 ```
 
 ---
