@@ -244,39 +244,39 @@ This project helped strengthen understanding of:
 
 ## Splash Screen
 
-<img src="screenshots/splashscreen.jpeg" width="250"/>
+<img src="assets/splashscreen.jpeg" width="250"/>
 
 ---
 
 ## Home Screen
 
-<img src="screenshots/homescreen.jpeg" width="250"/>
+<img src="assets/homescreen.jpeg" width="250"/>
 
 ---
 
 ## Analytics Dashboard
 
-<img src="screenshots/analyticsn dashboard.jpeg" width="250"/>
-<img src="screenshots/analyticsscreen.jpeg" width="250"/>
+<img src="assets/analyticsn dashboard.jpeg" width="250"/>
+<img src="assets/analyticsscreen.jpeg" width="250"/>
 
 ---
 
 ## Log Data Screen
 
-<img src="screenshots/Log borewell data.jpeg" width="250"/>
+<img src="assets/Log borewell data.jpeg" width="250"/>
 
 ---
 
 ## AI Insights
 
-<img src="screenshots/AI insights.jpeg" width="250"/>
-<img src="screenshots/AI insights recc.jpeg" width="250"/>
+<img src="assets/AI insights.jpeg" width="250"/>
+<img src="assets/AI insights recc.jpeg" width="250"/>
 
 ---
 
 ## Map Screen
 
-<img src="screenshots/mapscreen.jpeg" width="250"/>
+<img src="assets/mapscreen.jpeg" width="250"/>
 
 ---
 
